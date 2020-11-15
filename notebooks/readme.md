@@ -11,7 +11,7 @@ Select the database in the widget at the top, and the click run all
 
 This notebook will create 2 tables in the target database: 
 
-** Data Profile **
+### Data Profile ###
 
 ` profileData (databaseName string, tableName string, columnName  string, dataType string, value string, num_records float, len float) `
 
@@ -19,7 +19,7 @@ Basic profile information for all tables in the database, exclusion list provide
 
 
 
-** Schema Information **
+### Schema Information ###
 
 ` SchemaInformation (databaseName string, tableName string, columnName string, dataType string, comments string) `
 
