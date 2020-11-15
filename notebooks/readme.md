@@ -3,6 +3,8 @@
 
 ## Delta Lakehouse Data Profiler ##
 
+Notebook: Create Data Profile
+
 <img src="https://i.imgur.com/NNyw4Md.png" width="20%">
 
 Use this notebook to create a schema table and create a data profile table 
