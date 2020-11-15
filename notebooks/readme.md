@@ -3,7 +3,7 @@
 
 ## Delta Lakehouse Data Profiler ##
 
-Notebook: Create Data Profile
+Notebook: Create Data Profile.dbc
 
 <img src="https://i.imgur.com/NNyw4Md.png" width="20%">
 
